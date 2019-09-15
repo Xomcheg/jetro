@@ -7,6 +7,11 @@ body {
 header {
     background-color: green;
 }
+
+footer {
+	background-color: green;
+	color: red;
+}
 section {
     background-color;
 }
